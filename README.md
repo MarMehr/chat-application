@@ -5,7 +5,14 @@
 | Member Name   | Student ID | Contribution                                            |
 |---------------|------------|---------------------------------------------------------|
 | Jongmin Choi  | 203874794   | Server/client socket logic; connection management       |
-|  Marzia Mehr  | 109951593   |   Server/client socket logic; connection management     |
+|  Marzia Mehr  | 109951593   |   Developed server/client socket logic and connection management; implemented the help, myip, and myport commands, allowing users to view available commands, retrieve the host's IPv4 address, and identify the listening port number.  
+Role Description:
+
+help Command: Provides users with a list of all available commands, enhancing user interaction and clarity.
+
+myip Command: Retrieves and displays the IPv4 address of the current process, facilitating easy network configuration and peer connection.
+
+myport Command: Identifies and displays the port number on which the peer application is actively listening, crucial for establishing peer-to-peer connections.  |
 
 <br>
 
